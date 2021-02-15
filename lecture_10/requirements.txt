@@ -1,0 +1,10 @@
+numpy
+matplotlib
+seaborn
+tqdm
+scikit-learn
+gym
+atari_py
+pygame
+torch
+torchvision
