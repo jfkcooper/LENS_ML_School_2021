@@ -22,21 +22,23 @@ if you want to install these packages locally, for a particular user.
 
 ### JSC cluster
 
-You do not to setup anything special to be able to run the first part of the tutorial. However, for the *Reinforcement learning* part additional modules need to be loaded. The modules are listed in the file [start_jupyter-jsc.sh](start_jupyter-jsc.sh). The easiest way to load them is to put this file into your `$HOME/.jupyter/` directory.
-
 To get the lecture materials to your home directory, run in terminal:
 
 ```
 cp -a /p/project/training2101/LENS_ML_School_2021 $HOME
 ```
 
-To put the [start_jupyter-jsc.sh](start_jupyter-jsc.sh) into your `$HOME/.jupyter/` directory, run in terminal:
+You do not to setup anything special to be able to run the first part of the tutorial. However, for the *Reinforcement learning* part additional modules need to be loaded. The easiest way to do that is to use the script [start_jupyter-jsc.sh](start_jupyter-jsc.sh). Normally, it should be put into your `$HOME/.jupyter/` directory. However, after that you will need to restart your jupyter lab.
+
+Alternatively, **before starting any jupyter notebook** you run in terminal:
 
 ```
-cp /p/project/training2101/LENS_ML_School_2021/lecture_10/start_jupyter-jsc.sh $HOME/.jupyter
+cd LENS_ML_School_2021/lecture_10
+
+source start_jupyter-jsc.sh
 ```
 
-After that you will need to restart your jupyter lab.
+After that please check in the list of modules (tab *Softwares* on the left pannel) whether all required modules have been loaded. If everything is fine, you can start jupyter notebooks.
 
 
 ## Disclaimer
