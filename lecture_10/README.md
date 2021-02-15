@@ -33,7 +33,7 @@ cp -a /p/project/training2101/LENS_ML_School_2021 $HOME
 To put the [start_jupyter-jsc.sh](start_jupyter-jsc.sh) into your `$HOME/.jupyter/` directory, run in terminal:
 
 ```
-cp -a /p/project/training2101/LENS_ML_School_2021/lecture_10/start_jupyter-jsc.sh $HOME/.jupyter
+cp /p/project/training2101/LENS_ML_School_2021/lecture_10/start_jupyter-jsc.sh $HOME/.jupyter
 ```
 
 After that you will need to restart your jupyter lab.
