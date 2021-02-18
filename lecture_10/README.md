@@ -28,14 +28,7 @@ To get the lecture materials to your home directory, run in terminal:
 cp -a /p/project/training2101/LENS_ML_School_2021 $HOME
 ```
 
-You do not to setup anything special to be able to run the first part of the tutorial. However, for the *Reinforcement learning* part additional modules need to be loaded. The easiest way to do that is to use the script [start_jupyter-jsc.sh](start_jupyter-jsc.sh). It should be put into your `$HOME/.jupyter/` directory. To do so, run in the terminal: 
-
-```
-cp LENS_ML_School_2021/lecture_10/start_jupyter-jsc.sh $HOME/.jupyter/
-
-```
-
-After that you will need to **restart your jupyter lab**: go to the menu `File->Hub Control Panel` and press first `Stop` and then `Start` buttons for your Jupyter lab.
+You do not to setup anything special to be able to run the first part of the tutorial. However, for the *Reinforcement learning* part additional modules (openai gym, pytorch and torchvision) need to be loaded. This can be done on using the `Softwares` tab on the left-hand side of the window. 
 
 
 ## Disclaimer
