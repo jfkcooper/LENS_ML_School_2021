@@ -107,7 +107,7 @@ o    GANs: basics and practice
 
 ## [Lecture 8](https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lectures_6_8): Natural language processing and speech recognition (Gagik Vardanyan & Guanghan Song)
 
-o    Semantic spaaaaaace, word-to-vec
+o    Semantic space, word-to-vec
 
 o    NNTK, spacey
 
