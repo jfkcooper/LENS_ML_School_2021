@@ -3,7 +3,7 @@ A host for the tutorial material for the machine learning school 2021.
 
 
 
-## Lecture 1: Introduction to deep learning and neural networks (Jos Cooper)
+## Lecture 1: Introduction to deep learning and neural networks (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_1) (Jos Cooper)
 
 o    Terminology
 
@@ -16,7 +16,7 @@ o    Introduction to Tensorflow, Pytorch, and Keras
   
 
 
-## Lecture 2: Dense neural networks and regression (Jos Cooper) 
+## Lecture 2: Dense neural networks and regression https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_1) (Jos Cooper) 
 
 o    Supervised learning
 
