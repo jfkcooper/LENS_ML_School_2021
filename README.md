@@ -13,7 +13,7 @@ o    Fundamentals of deep learning: neural networks, nodes, weights, biases, act
 
 o    Introduction to Tensorflow, Pytorch, and Keras  
 
-
+  
 
 
 Lecture 2: Dense neural networks and regression (Jos Cooper) 
