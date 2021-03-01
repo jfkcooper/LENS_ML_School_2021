@@ -3,7 +3,7 @@ A host for the tutorial material for the machine learning school 2021.
 
 
 
-Lecture 1: Introduction to deep learning and neural networks (Jos Cooper)
+## Lecture 1: Introduction to deep learning and neural networks (Jos Cooper)
 
 o    Terminology
 
@@ -16,7 +16,7 @@ o    Introduction to Tensorflow, Pytorch, and Keras
   
 
 
-Lecture 2: Dense neural networks and regression (Jos Cooper) 
+## Lecture 2: Dense neural networks and regression (Jos Cooper) 
 
 o    Supervised learning
 
@@ -27,7 +27,7 @@ o    Training, validation, testing, prediction
 
 
 
-Lecture 3: Convolutional neural networks and classification (Emmanouela Rantsiou)
+## Lecture 3: Convolutional neural networks and classification (Emmanouela Rantsiou)
 
 o    Filters, convolution, layers
 
