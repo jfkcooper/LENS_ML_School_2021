@@ -16,7 +16,7 @@ o    Introduction to Tensorflow, Pytorch, and Keras
   
 
 
-## Lecture 2: Dense neural networks and regression https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_1) (Jos Cooper) 
+## Lecture 2: Dense neural networks and regression (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_1) (Jos Cooper) 
 
 o    Supervised learning
 
@@ -27,7 +27,7 @@ o    Training, validation, testing, prediction
 
 
 
-## Lecture 3: Convolutional neural networks and classification (Emmanouela Rantsiou)
+## Lecture 3: Convolutional neural networks and classification (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_3)  (Emmanouela Rantsiou)
 
 o    Filters, convolution, layers
 
@@ -73,7 +73,7 @@ o    Semi-supervised learning
 
 
 
-## Lecture 6: Recurrent neural networks (Gagik Vardanyan)
+## Lecture 6: Recurrent neural networks  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_6_8)  (Gagik Vardanyan)
 
 o    Time series
 
@@ -86,7 +86,7 @@ o    GRUs
 
 
 
-## Lecture 7:Generative Adversarial Networks, GANs (Kuangdai Leng)
+## Lecture 7:Generative Adversarial Networks, GANs  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_7)  (Kuangdai Leng)
 
 o    Introduction to generative models: VAEs and GANs
 
@@ -95,7 +95,7 @@ o    GANs: basics and practice
 
 
 
-Lecture 8: Natural language processing and speech recognition  (Guanghan Song)
+Lecture 8: Natural language processing and speech recognition  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_6_8)  (Gagik Vardanyan & Guanghan Song)
 
 o    Semantic spaaaaaace, word-to-vec
 
@@ -107,7 +107,7 @@ o    Machine translation, seq-to-seq methods
 
 
 
-## Lecture 9: Uncertainty and attention (Mario Teixeira Parente)
+## Lecture 9: Uncertainty and attention  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_9)  (Mario Teixeira Parente)
 
 o    Bayesian methods 
 
@@ -116,7 +116,7 @@ o    Gaussian attention / spatial transformers
 
 
 
-## Lecture 10: Unsupervised learning - clustering (Marina Ganeva)
+## Lecture 10: Unsupervised learning - clustering  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_10) (Marina Ganeva)
 
 ### Part 1
 
