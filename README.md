@@ -95,7 +95,7 @@ o    GANs: basics and practice
 
 
 
-Lecture 8: Natural language processing and speech recognition  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lectures_6_8)  (Gagik Vardanyan & Guanghan Song)
+## Lecture 8: Natural language processing and speech recognition  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lectures_6_8)  (Gagik Vardanyan & Guanghan Song)
 
 o    Semantic spaaaaaace, word-to-vec
 
