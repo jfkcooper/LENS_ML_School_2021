@@ -2,6 +2,7 @@
 A host for the tutorial material for the machine learning school 2021.
 
 
+
 Lecture 1: Introduction to deep learning and neural networks (Jos Cooper)
 
 o    Terminology
@@ -14,6 +15,7 @@ o    Introduction to Tensorflow, Pytorch, and Keras
 
 
 
+
 Lecture 2: Dense neural networks and regression (Jos Cooper) 
 
 o    Supervised learning
@@ -21,6 +23,7 @@ o    Supervised learning
 o    Epochs, metrics, batch processing
 
 o    Training, validation, testing, prediction
+
 
 
 
@@ -43,7 +46,8 @@ o    Transfer learning
 
 
 
-Lecture 4: [Traditional ML methods] (https://mccluskey.scot/trad_ml_methods/intro.html) (Andrew McCluskey)
+
+Lecture 4: Traditional ML methods (https://mccluskey.scot/trad_ml_methods/intro.html) (Andrew McCluskey)
 
 o    Decision trees
 
@@ -52,6 +56,7 @@ o    Gradient boosting
 o    Principle component analysis (PCA)
 
 o    Bayesian model selection
+
 
 
 
@@ -67,6 +72,7 @@ o    Semi-supervised learning
 
 
 
+
 Lecture 6: Recurrent neural networks (Gagik Vardanyan)
 
 o    Time series
@@ -79,11 +85,13 @@ o    GRUs
 
 
 
+
 Lecture 7:Generative Adversarial Networks, GANs (Kuangdai Leng)
 
 o    Introduction to generative models: VAEs and GANs
 
 o    GANs: basics and practice
+
 
 
 
@@ -98,11 +106,13 @@ o    Machine translation, seq-to-seq methods
 
 
 
+
 Lecture 9: Uncertainty and attention (Mario Teixeira Parente)
 
 o    Bayesian methods 
 
 o    Gaussian attention / spatial transformers
+
 
 
 
