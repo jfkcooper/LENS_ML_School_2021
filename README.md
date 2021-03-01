@@ -1,12 +1,15 @@
 # LENS_ML_School_2021
+
+
 A host for the tutorial material for the machine learning school 2021.
-This school took place in the week commencing 15 Feburary 2021. Lecture recordings will soon be uploaded and links shared here. All resources can be run in a  Google colab environment. For guidance on how to run the tutorial materials please refer to the lecture video where possible.  
+This school took place in the week commencing 15 Feburary 2021. Lecture recordings will soon be uploaded and links shared here. All resources can be run in a  Google colab environment.
+<hr />
 
 o  To use this material, if you are unfamiliar with git we reccommend donloading the entire repository (the green code button and download .zip file)  
 o  To run the tutorials on colab (https://colab.research.google.com/) you will need a google acount, then select github when prompted for a notebook and insert this repository (https://github.com/jfkcooper/LENS_ML_School_2021) which should then find all of the notebooks   
 o  Alot of the notebooks have "lecturer editions" with answers, or answers hidden at the bottom of the page if you get stuck  
 o  A slack workspace has also been created for this school (https://join.slack.com/t/lensmlschool2021/shared_invite/zt-m5hi20cj-NoriZQbku~BuDQgge~BG8A) pleae join the conversation
-
+<hr />
 
 
 
