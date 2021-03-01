@@ -13,7 +13,7 @@ o  A slack workspace has also been created for this school (https://join.slack.c
 
 
 
-## Lecture 1: Introduction to deep learning and neural networks [test](https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_1) (Jos Cooper)
+## [Lecture 1](https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_1): Introduction to deep learning and neural networks (Jos Cooper)
 
 o    Terminology
 
@@ -26,7 +26,7 @@ o    Introduction to Tensorflow, Pytorch, and Keras
   
 
 
-## Lecture 2: Dense neural networks and regression (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_2) (Jos Cooper) 
+## [Lecture 2](https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_2): Dense neural networks and regression (Jos Cooper) 
 
 o    Supervised learning
 
@@ -37,7 +37,7 @@ o    Training, validation, testing, prediction
 
 
 
-## Lecture 3: Convolutional neural networks and classification (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_3)  (Emmanouela Rantsiou)
+## [Lecture 3](https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_3): Convolutional neural networks and classification (Emmanouela Rantsiou)
 
 o    Filters, convolution, layers
 
@@ -57,7 +57,7 @@ o    Transfer learning
 
 
 
-## Lecture 4: Traditional ML methods (https://mccluskey.scot/trad_ml_methods/intro.html) (Andrew McCluskey)
+## [Lecture 4](https://mccluskey.scot/trad_ml_methods/intro.html): Traditional ML methods (Andrew McCluskey)
 
 o    Decision trees
 
@@ -70,7 +70,7 @@ o    Bayesian model selection
 
 
 
-## Lecture 5: Image segmentation (https://imaginglectures.github.io/MLSegmentation4NI/) (Anders Kaestner)
+## [Lecture 5](https://imaginglectures.github.io/MLSegmentation4NI/): Image segmentation (Anders Kaestner)
 
 o    Object detection
 
@@ -83,7 +83,7 @@ o    Semi-supervised learning
 
 
 
-## Lecture 6: Recurrent neural networks  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lectures_6_8)  (Gagik Vardanyan)
+## [Lecture 6](https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lectures_6_8): Recurrent neural networks (Gagik Vardanyan)
 
 o    Time series
 
@@ -96,7 +96,7 @@ o    GRUs
 
 
 
-## Lecture 7:Generative Adversarial Networks, GANs  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_7)  (Kuangdai Leng)
+## [Lecture 7](https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_7):Generative Adversarial Networks, GANs (Kuangdai Leng)
 
 o    Introduction to generative models: VAEs and GANs
 
@@ -105,7 +105,7 @@ o    GANs: basics and practice
 
 
 
-## Lecture 8: Natural language processing and speech recognition  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lectures_6_8)  (Gagik Vardanyan & Guanghan Song)
+## [Lecture 8](https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lectures_6_8): Natural language processing and speech recognition (Gagik Vardanyan & Guanghan Song)
 
 o    Semantic spaaaaaace, word-to-vec
 
@@ -117,7 +117,7 @@ o    Machine translation, seq-to-seq methods
 
 
 
-## Lecture 9: Uncertainty and attention  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_9)  (Mario Teixeira Parente)
+## [Lecture 9](https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_9): Uncertainty and attention (Mario Teixeira Parente)
 
 o    Bayesian methods 
 
@@ -126,7 +126,7 @@ o    Gaussian attention / spatial transformers
 
 
 
-## Lecture 10: Unsupervised learning - clustering  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_10) (Marina Ganeva)
+## [Lecture 10](https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_10): Unsupervised learning - clustering (Marina Ganeva)
 
 ### Part 1
 
