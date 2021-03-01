@@ -73,7 +73,7 @@ o    Semi-supervised learning
 
 
 
-## Lecture 6: Recurrent neural networks  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_6_8)  (Gagik Vardanyan)
+## Lecture 6: Recurrent neural networks  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lectures_6_8)  (Gagik Vardanyan)
 
 o    Time series
 
@@ -95,7 +95,7 @@ o    GANs: basics and practice
 
 
 
-Lecture 8: Natural language processing and speech recognition  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_6_8)  (Gagik Vardanyan & Guanghan Song)
+Lecture 8: Natural language processing and speech recognition  (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lectures_6_8)  (Gagik Vardanyan & Guanghan Song)
 
 o    Semantic spaaaaaace, word-to-vec
 
