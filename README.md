@@ -11,6 +11,8 @@ o  Alot of the notebooks have "lecturer editions" with answers, or answers hidde
 o  A slack workspace has also been created for this school (https://join.slack.com/t/lensmlschool2021/shared_invite/zt-m5hi20cj-NoriZQbku~BuDQgge~BG8A) pleae join the conversation
 <hr />
 
+This School is a collaboration of working group 4 as part of the League of Advanced European Neutrons Sources [https://www.lens-initiative.org/]((LENS)) but was also supported by the STFC's Scientific Machine Learning Group [https://www.scd.stfc.ac.uk/Pages/Scientific-Machine-Learning.aspx](SciML) group and the Jülich Supercomputing Centre [https://www.fz-juelich.de/ias/jsc/EN/Home/home_node.html](JSC).
+<hr />
 
 
 ## [Lecture 1](https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_1): Introduction to deep learning and neural networks (Jos Cooper)
