@@ -11,7 +11,7 @@ o    The perceptron
 
 o    Fundamentals of deep learning: neural networks, nodes, weights, biases, activation functions,  backpropogation and some of the maths behind it
 
-o    Introduction to Tensorflow, Pytorch, and Keras
+o    Introduction to Tensorflow, Pytorch, and Keras  
 
 
 
@@ -22,7 +22,7 @@ o    Supervised learning
 
 o    Epochs, metrics, batch processing
 
-o    Training, validation, testing, prediction
+o    Training, validation, testing, prediction  
 
 
 
@@ -41,7 +41,7 @@ o    Augmentation, regularization
 
 o    Hyper-parameter tuning
 
-o    Transfer learning
+o    Transfer learning  
 
 
 
@@ -55,7 +55,7 @@ o    Gradient boosting
 
 o    Principle component analysis (PCA)
 
-o    Bayesian model selection
+o    Bayesian model selection  
 
 
 
@@ -68,7 +68,7 @@ o    Tomography
 
 o    SegNet and/or ResNet
 
-o    Semi-supervised learning
+o    Semi-supervised learning  
 
 
 
@@ -81,7 +81,7 @@ o    Simple RNNs
 
 o    LSTMs
 
-o    GRUs
+o    GRUs  
 
 
 
@@ -90,8 +90,8 @@ Lecture 7:Generative Adversarial Networks, GANs (Kuangdai Leng)
 
 o    Introduction to generative models: VAEs and GANs
 
-o    GANs: basics and practice
-
+o    GANs: basics and practice  
+ 
 
 
 
@@ -101,7 +101,7 @@ o    Semantic spaaaaaace, word-to-vec
 
 o    NNTK, spacey
 
-o    Machine translation, seq-to-seq methods
+o    Machine translation, seq-to-seq methods  
 
 
 
@@ -111,7 +111,7 @@ Lecture 9: Uncertainty and attention (Mario Teixeira Parente)
 
 o    Bayesian methods 
 
-o    Gaussian attention / spatial transformers
+o    Gaussian attention / spatial transformers  
 
 
 
@@ -128,5 +128,5 @@ o    Manifold learning
 
 Part 2
 
-o    Reinforcement learning
-
+o    Reinforcement learning  
+  
