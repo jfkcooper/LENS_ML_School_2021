@@ -13,7 +13,7 @@ o  A slack workspace has also been created for this school (https://join.slack.c
 
 
 
-## Lecture 1: Introduction to deep learning and neural networks (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_1) (Jos Cooper)
+## Lecture 1: Introduction to deep learning and neural networks [test](https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_1) (Jos Cooper)
 
 o    Terminology
 
