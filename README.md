@@ -60,7 +60,7 @@ o    Bayesian model selection
 
 
 
-## Lecture 5: Image segmentation (Anders Kaestner)
+## Lecture 5: Image segmentation (https://imaginglectures.github.io/MLSegmentation4NI/) (Anders Kaestner)
 
 o    Object detection
 
