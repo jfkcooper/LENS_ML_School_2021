@@ -11,7 +11,7 @@ o    The perceptron
 
 o    Fundamentals of deep learning: neural networks, nodes, weights, biases, activation functions,  backpropogation and some of the maths behind it
 
-o    Introduction to Tensorflow, Pytorch, and Keras;
+o    Introduction to Tensorflow, Pytorch, and Keras
 
 
 
