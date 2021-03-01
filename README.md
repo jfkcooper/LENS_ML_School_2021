@@ -47,7 +47,7 @@ o    Transfer learning
 
 
 
-Lecture 4: Traditional ML methods (https://mccluskey.scot/trad_ml_methods/intro.html) (Andrew McCluskey)
+## Lecture 4: Traditional ML methods (https://mccluskey.scot/trad_ml_methods/intro.html) (Andrew McCluskey)
 
 o    Decision trees
 
@@ -60,7 +60,7 @@ o    Bayesian model selection
 
 
 
-Lecture 5: Image segmentation (Anders Kaestner)
+## Lecture 5: Image segmentation (Anders Kaestner)
 
 o    Object detection
 
@@ -73,7 +73,7 @@ o    Semi-supervised learning
 
 
 
-Lecture 6: Recurrent neural networks (Gagik Vardanyan)
+## Lecture 6: Recurrent neural networks (Gagik Vardanyan)
 
 o    Time series
 
@@ -86,7 +86,7 @@ o    GRUs
 
 
 
-Lecture 7:Generative Adversarial Networks, GANs (Kuangdai Leng)
+## Lecture 7:Generative Adversarial Networks, GANs (Kuangdai Leng)
 
 o    Introduction to generative models: VAEs and GANs
 
@@ -107,7 +107,7 @@ o    Machine translation, seq-to-seq methods
 
 
 
-Lecture 9: Uncertainty and attention (Mario Teixeira Parente)
+## Lecture 9: Uncertainty and attention (Mario Teixeira Parente)
 
 o    Bayesian methods 
 
@@ -116,9 +116,9 @@ o    Gaussian attention / spatial transformers
 
 
 
-Lecture 10: Unsupervised learning - clustering (Marina Ganeva)
+## Lecture 10: Unsupervised learning - clustering (Marina Ganeva)
 
-Part 1
+### Part 1
 
 o   Introduction
 
@@ -126,7 +126,7 @@ o    Clustering
 
 o    Manifold learning
 
-Part 2
+### Part 2
 
 o    Reinforcement learning  
   
