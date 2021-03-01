@@ -16,7 +16,7 @@ o    Introduction to Tensorflow, Pytorch, and Keras
   
 
 
-## Lecture 2: Dense neural networks and regression (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_1) (Jos Cooper) 
+## Lecture 2: Dense neural networks and regression (https://github.com/jfkcooper/LENS_ML_School_2021/tree/main/lecture_2) (Jos Cooper) 
 
 o    Supervised learning
 
