@@ -1,5 +1,4 @@
-# LENS_ML_School_2021
-
+# LENS Machine Learning School 2021
 
 A host for the tutorial material for the machine learning school 2021.
 This school took place in the week commencing 15 Feburary 2021. Lecture recordings will soon be uploaded and links shared here.   
