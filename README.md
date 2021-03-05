@@ -1,7 +1,7 @@
 # LENS Machine Learning School 2021
 
 A host for the tutorial material for the machine learning school 2021.
-This school took place in the week commencing 15 Feburary 2021. Lecture recordings will soon be uploaded and links shared here.   
+This school took place in the week commencing 15 Feburary 2021. Lecture recordings, where taken, are available at https://youtube.com/playlist?list=PLb8u5qKr67D3oTDELd6DXX-OWKYiZjQbr.   
 
 This School is a collaboration of working group 4 as part of the League of Advanced European Neutrons Sources [(LENS)](https://www.lens-initiative.org/) but was also supported by the STFC's Scientific Machine Learning Group [(SciML)](https://www.scd.stfc.ac.uk/Pages/Scientific-Machine-Learning.aspx) group and the Jülich Supercomputing Centre [(JSC)](https://www.fz-juelich.de/ias/jsc/EN/Home/home_node.html).
 <hr />
